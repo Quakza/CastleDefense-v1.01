@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Tower Defense-0.1.0";
 const contentToCache = [
-    "Build/Castle Defense v1.01.loader.js",
-    "Build/Castle Defense v1.01.framework.js.unityweb",
-    "Build/Castle Defense v1.01.data.unityweb",
-    "Build/Castle Defense v1.01.wasm.unityweb",
+    "Build/Castle Defense v1.02.loader.js",
+    "Build/Castle Defense v1.02.framework.js.unityweb",
+    "Build/Castle Defense v1.02.data.unityweb",
+    "Build/Castle Defense v1.02.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
